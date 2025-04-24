@@ -17,7 +17,7 @@ Thumbs.db
 /.idea/
 /.vscode/
 *.iml
-
+*.txt
 
 # 忽略package-lock.json文件（对于Node.js项目）
 package-lock.json
